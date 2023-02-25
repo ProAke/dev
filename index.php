@@ -1,3 +1,6 @@
-<?
-echo "Welcome Dev";
+<?php 
+
+header ('location: public/index.php');
+exit();
+
 ?>
